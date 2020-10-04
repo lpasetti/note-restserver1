@@ -4,7 +4,6 @@
     "main": "index.js",
     "scripts": {
         "start": "node server\\server.js",
-        "nodemon": "nodemon server\\server.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
@@ -13,14 +12,5 @@
         "body-parser": "^1.19.0",
         "express": "^4.17.1"
     },
-    "devDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/lpasetti/note-restserver1.git"
-    },
-    "bugs": {
-        "url": "https://github.com/lpasetti/note-restserver1/issues"
-    },
-    "homepage": "https://github.com/lpasetti/note-restserver1#readme",
     "description": ""
 }
